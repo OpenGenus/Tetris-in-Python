@@ -36,4 +36,4 @@ cd Tetris-in-Python
 python tetris.py
 ```
 
-Please note that these instructions assume you have Git installed on your system. If you don't have Git, you can also manually download the repository from GitHub by visiting the repository URL ([github.com/OpenGenus/Tetris-in-Python](https://github.com/itz-Mathankumar/Tetris-in-Python)) and clicking on the "Code" button, then selecting "Download ZIP". After extracting the ZIP file, navigate to the extracted directory using the command line or terminal and proceed with step 3 to run the game.
+Please note that these instructions assume you have Git installed on your system. If you don't have Git, you can also manually download the repository from GitHub by visiting the repository URL ([github.com/OpenGenus/Tetris-in-Python](https://github.com/OpenGenus/Tetris-in-Python)) and clicking on the "Code" button, then selecting "Download ZIP". After extracting the ZIP file, navigate to the extracted directory using the command line or terminal and proceed with step 3 to run the game.
