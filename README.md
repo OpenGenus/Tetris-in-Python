@@ -2,6 +2,8 @@
 
 Tetris is an iconic puzzle game developed by Alexey Pajitnov and released in 1984. The game starts as random coloured letter pieces (geometric shapes) starts falling from the above and can be rotated and aligned before they descend to the bottom and hence the next piece starts falling and goes on.
 
+This game has been developed by OpenGenus Intern, **[Mathankumar V](https://iq.opengenus.org/author/mathankumar/)**. This is the [documentation of this project](https://iq.opengenus.org/tetris-in-python-using-pygame/).
+
 # Requirements
 
 To run the Tetris game, you'll need the following:
